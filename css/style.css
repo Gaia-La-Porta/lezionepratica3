@@ -22,7 +22,7 @@ header {
     color: #fff;
     text-decoration: none;
     align-items: baseline;
-    background-color: #c1c1c1;
+    background-color: #ff833d;
     padding: 50px 30px 20px 20px;
     display: flex;
     justify-content: space-between;
@@ -33,7 +33,7 @@ header a {
     text-decoration: none;
    font-size: 30pt;
     align-items: baseline;
-    background-color: #c1c1c1;
+    background-color: #ff833d;
     padding: 50px 15px 20px 15px;
 
 }
@@ -50,27 +50,27 @@ header nav {
 footer {
     color: #fff;
     font-size: 16pt;
-    background-color: #c1c1c1;
+    background-color: #ff833d;
     padding: 15px 30px 30px 30px;
 }
 
 .hero {
     color: #fff;
-    background-color: #d1d1d1;
+    background-color: #ffb185;
     margin: 60px 0px 20px 0px;
     padding: 20px 30px 20px 30px;
     font-size: 18pt;
 }
 
 .img1, .img2, .img3, .img4, .img5, .img6 {
-background-color: #eaeaea;
+background-color: #fdddcb;
 padding: 60px 80px 60px 80px;
 }
 
 .sx1 {
     display: flex;
     flex-direction: column;
-    background-color: #eaeaea;
+    background-color: #fdddcb;
     align-items: center;
     margin: 60px 0px 0px 60px;
     padding: 10px 35px 10px 35px;
@@ -79,7 +79,7 @@ padding: 60px 80px 60px 80px;
 .sx1 a {
     text-decoration: none;
     color: black;
-    background-color: #eaeaea;
+    background-color: #fdddcb;
     padding: 0px 80px 60px 80px;
     font-weight: bolder;
     font-size: 16pt;
@@ -88,7 +88,7 @@ padding: 60px 80px 60px 80px;
 .dx1 {
     display: flex;
     flex-direction: column;
-    background-color: #eaeaea;
+    background-color: #fdddcb;
     align-items: center;
     margin: 60px 60px 0px 0px;
     padding: 10px 20px 10px 20px;
@@ -97,7 +97,7 @@ padding: 60px 80px 60px 80px;
 .dx1 a {
     text-decoration: none;
     color: black;
-    background-color: #eaeaea;
+    background-color: #fdddcb;
     padding: 0px 80px 60px 80px;
     font-weight: bolder;
     font-size: 16pt;
@@ -114,7 +114,7 @@ padding: 60px 80px 60px 80px;
 .sx2 {
     display: flex;
     flex-direction: column;
-    background-color: #eaeaea;
+    background-color: #fdddcb;
     align-items: center;
     margin: 60px 0px 0px 60px;
     padding: 10px 20px 10px 20px;
@@ -123,7 +123,7 @@ padding: 60px 80px 60px 80px;
 .sx2 a {
     text-decoration: none;
     color: black;
-    background-color: #eaeaea;
+    background-color: #fdddcb;
     padding: 0px 80px 60px 80px;
     font-weight: bolder;
     font-size: 16pt;
@@ -153,7 +153,7 @@ max-width: 38%
 .dx2 {
     display: flex;
     flex-direction: column;
-    background-color: #eaeaea;
+    background-color: #fdddcb;
     align-items: center;
     margin: 60px 60px 0px 0px;
     padding: 10px 20px 10px 20px;
@@ -162,7 +162,7 @@ max-width: 38%
 .dx2 a {
     text-decoration: none;
     color: black;
-    background-color: #eaeaea;
+    background-color: #fdddcb;
     padding: 0px 80px 60px 80px;
     font-weight: bolder;
     font-size: 16pt;
@@ -179,7 +179,7 @@ max-width: 38%
 .sx3 {
     display: flex;
     flex-direction: column;
-    background-color: #eaeaea;
+    background-color: #fdddcb;
     align-items: center;
     margin: 60px 0px 60px 60px;
     padding: 10px 20px 10px 20px;
@@ -188,7 +188,7 @@ max-width: 38%
 .sx3 a {
     text-decoration: none;
     color: black;
-    background-color: #eaeaea;
+    background-color: #fdddcb;
     padding: 0px 80px 60px 80px;
     font-weight: bolder;
     font-size: 16pt;
@@ -197,7 +197,7 @@ max-width: 38%
 .dx3 {
     display: flex;
     flex-direction: column;
-    background-color: #eaeaea;
+    background-color: #fdddcb;
     align-items: center;
     margin: 60px 60px 60px 0px;
     padding: 10px 20px 10px 20px;
@@ -206,7 +206,7 @@ max-width: 38%
 .dx3 a {
     text-decoration: none;
     color: black;
-    background-color: #eaeaea;
+    background-color: #fdddcb;
     padding: 0px 80px 60px 80px;
     font-weight: bolder;
     font-size: 16pt;
